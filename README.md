@@ -1,2 +1,2 @@
 # modern-js
-studies on modern javascript
+Studies on modern javascript
